@@ -1,0 +1,15 @@
+{
+    "name": "atnfilho/buscador-cursos",
+    "description": "Projeto que busca cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "atnfilho",
+            "email": "atnfilho@yahoo.com.br"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "symfony/dom-crawler": "^4.2"
+    }
+}
